@@ -1,1 +1,1 @@
-print("Hellow world")
+print("CSK haar gyi")
